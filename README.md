@@ -1,2 +1,2 @@
-# html-only-portfolio
-Project to create a portfolio using only html
+# html-only-multipage-resume
+Project to create a multipage resume using only html
